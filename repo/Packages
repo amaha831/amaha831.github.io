@@ -1,0 +1,15 @@
+io.github.amaha831.speakershare_0.0.1-3+debug_iphoneos-arm.deb
+Package: io.github.amaha831.speakershare
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: amaha831
+Depends: firmware (>11.2), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/io.github.amaha831.speakershare_0.0.1-3+debug_iphoneos-arm.deb
+Size: 3796
+MD5sum: c8d20776b724e9e6521af7e19518face
+SHA1: 2ab97f8cd2394812dc8483f7536476e24e59eb01
+SHA256: d78b15933fb908ddbfe7fb24b4fd6eb53131701c40b6bb18dd4a9a62b9a25dc6
+Description: spotify social listening enabler
+Name: speakershare
+Author: amaha831
