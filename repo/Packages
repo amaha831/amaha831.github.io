@@ -2,7 +2,7 @@ Package: io.github.amaha831.speakershare
 Version: 0.0.1-3
 Section: Tweaks
 Maintainer: amaha831
-Depends: mobilesubstrate
+Depends: firmware (>=11.2), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/io.github.amaha831.speakershare_0.0.1-3+debug_iphoneos-arm.deb
 Size: 3796
