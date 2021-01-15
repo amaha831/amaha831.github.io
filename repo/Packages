@@ -5,7 +5,7 @@ Maintainer: amaha831
 Depends: firmware (>=12.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/palm-v1.deb
-Size: 3796
+Size: 4866
 MD5sum: 1b052cb61bbe8862524978946cb54450
 SHA1: 49f86f557cdeb8deec764f8dd6b461182235e99a
 SHA256: cffa9d2f74ed2a29367b5c9c10e557a3e0477bab206200a21f8d79c32f7c0e57
